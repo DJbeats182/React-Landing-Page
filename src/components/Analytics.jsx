@@ -10,7 +10,7 @@ const Analytics = () => {
             <p className='text-[#00df9a] font-bold'>DATA ANALYTICS DASHBOARD</p>
             <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Manage Data Analytics Centrally</h1>
             <p className=''>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas delectus quasi voluptatem quae dignissimos, enim iste quia quo perferendis alias commodi, inventore dolorem molestiae molestias eum quos. Natus, mollitia porro.</p>
-            <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3'>Get Started</button>
+            <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 hover:bg-[#3c3c3c] hover:scale-105 duration-300'>Get Started</button>
             </div>
         </div>
     </div>
