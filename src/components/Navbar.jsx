@@ -10,9 +10,9 @@ const Navbar = () => {
 
   return (
     <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white'>
-        <div className='hover:cursor-pointer hover:scale-125 duration-300'>
+        {/* <div className='hover:cursor-pointer hover:scale-125 duration-300'> */}
         <h1 className='w-full text-3xl font-bold text-[#00df9a]'>REACT.</h1>
-        </div>
+        {/* </div> */}
         <ul className='hidden md:flex'>
             <li className='p-4 hover:cursor-pointer hover:text-[#00df9a]'>Home</li>
             <li className='p-4 hover:cursor-pointer hover:text-[#00df9a]'>Company</li>

@@ -13,7 +13,9 @@ const Hero = () => {
           </div>
           <p className='md:text-2xl text-xl font-bold text-gray-500'>Monitor your data analytics to increase revenue for BTB, BTC, & SASS platform.</p>
           <button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black hover:bg-[#59f7c5] hover:scale-105 duration-300'>Get Started</button>
+          {/* maybe darken the hover effect for buttons to #4bc8a0a8  */}
         </div>
+        <div className='scroll-down'></div>
     </div>
   );
 };
